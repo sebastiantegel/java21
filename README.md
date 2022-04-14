@@ -18,3 +18,14 @@ För att läsa med om koncepten går det bra att läsa här:
 - [JSX or TSX - What is it?](https://reactjs.org/docs/introducing-jsx.html)
 - [Rendering stuff](https://reactjs.org/docs/rendering-elements.html)
 - [Props and state](https://reactjs.org/docs/components-and-props.html)
+
+### React - Events_lists_rendering
+
+I detta projekt går vi igenom händelser, t.ex. onClick och onChange. Vi använder lite knep för att kunna hålla flera textrutor synkade med vårt state i komponenten Register. 
+Sedan visar jag villkordstyrd rendering genom en Loader. Detta följs upp av en lista i komponenten ListOfNumbers.
+
+Mer information finns att läsa på följande länkar:
+
+- [Handling events](https://reactjs.org/docs/handling-events.html)
+- [Conditional rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [Lists](https://reactjs.org/docs/lists-and-keys.html)
