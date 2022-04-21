@@ -1,0 +1,20 @@
+.movies {
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+}
+
+.movies .movie-container {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.movies .movie-container .img-container {
+    width: 65%;
+}
+
+.movies .movie-container .img-container img {
+    width: 100%;
+}
