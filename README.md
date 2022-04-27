@@ -52,3 +52,5 @@ Nu har vi börjat kommunicera med api:er och för detta ändamål använder vi a
 ### React - router
 
 Vi går igenom koncept med router och visar hur vi kan skapa layout-komponenter. Hur vi kan skicka information till en route och hur vi väl där tar emot informationen. Vi går även igenom hur vi kan skapa en enklare navigering som använder routern för att uppdatera vår sida.
+
+- [React router](https://reactrouterdotcom.fly.dev/docs/en/v6)
