@@ -57,4 +57,8 @@ Vi går igenom koncept med router och visar hur vi kan skapa layout-komponenter.
 
 ### React - Styled app
 
-Detta projekt visar hur ni kan använda styled components för att styla er applikation. Vi kommer att visa grundläggande styled components men även gå igenom hur vi kan använda props för att göra våra styled components lite mer dynamiska. 
+Detta projekt visar hur ni kan använda styled components för att styla er applikation. Vi kommer att visa grundläggande styled components men även gå igenom hur vi kan använda props för att göra våra styled components lite mer dynamiska.
+
+### React - Themed app
+
+Detta projekt går igenom ett exempel med context och hur vi kan använda context som ett globalt state för att göra styling till komponenter. Även att kunna ändra värdet i vårt context från långt ner i hierkin av komponenter visas.
