@@ -62,3 +62,10 @@ Detta projekt visar hur ni kan använda styled components för att styla er appl
 ### React - Themed app
 
 Detta projekt går igenom ett exempel med context och hur vi kan använda context som ett globalt state för att göra styling till komponenter. Även att kunna ändra värdet i vårt context från långt ner i hierkin av komponenter visas.
+
+### React - Liftin-state
+
+Detta projekt visar grunden till hur lifting state upp fungerar. För lite mer helhet kan ni kika på todo-list som visar hur ni kan göra för hela projektet. 
+
+- [Lifting state up](https://reactjs.org/docs/lifting-state-up.html)
+- [Thinking in react](https://reactjs.org/docs/thinking-in-react.html)
